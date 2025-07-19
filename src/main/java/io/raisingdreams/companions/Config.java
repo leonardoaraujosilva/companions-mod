@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package io.raisingdreams.companions;
 
 import java.util.List;
 import java.util.Set;
